@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseEntity.d.ts","sourceRoot":"","sources":["../../src/BaseEntity.ts"],"names":[],"mappings":"AACA,KAAK,MAAM,GAAG;IACZ,IAAI,EAAE,OAAO,CAAA;IACb,KAAK,EAAE,OAAO,CAAA;CACf,CAAA;AAED,KAAK,SAAS,GAAG;IACf,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;CACtB,CAAA"}

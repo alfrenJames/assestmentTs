@@ -1,0 +1,1 @@
+{"version":3,"file":"EntityFunction.js","sourceRoot":"","sources":["../src/EntityFunction.ts"],"names":[],"mappings":"AAAA,OAAO,kBAAkB,CAAC;AAE1B,MAAM,UAAU,cAAc;IAC5B,OAAO,UAAU,MAAW,EAAE,WAAmB;QAC/C,OAAO,CAAC,cAAc,CAAC,gBAAgB,EAAE,IAAI,EAAE,MAAM,EAAE,WAAW,CAAC,CAAC;IAEtE,CAAC,CAAC;AACJ,CAAC;AAED,eAAe,cAAc,CAAA"}

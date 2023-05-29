@@ -1,0 +1,1 @@
+{"version":3,"file":"getEntityTypeName.js","sourceRoot":"","sources":["../src/getEntityTypeName.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAA;AAEzC,MAAM,UAAU,iBAAiB,CAAC,CAAM;IACtC,OAAO,UAAU,CAAC,CAAC,CAAC,CAAA;AACtB,CAAC;AAED,MAAM,UAAU,gBAAgB,CAAC,CAAgB,EAAE,CAAgB;IACjE,OAAO,iBAAiB,CAAC,CAAC,CAAC,KAAK,iBAAiB,CAAC,CAAC,CAAC,CAAA;AACtD,CAAC"}
